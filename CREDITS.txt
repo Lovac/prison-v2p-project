@@ -1,0 +1,8 @@
+Credits
+
+- MrLovac - the Prison V2P level, its layout and the meshes in this download (free to study and change for your own
+  Bodycam maps; please credit "Prison V2P by MrLovac" and do not re-upload it unchanged).
+- Reissad Studio - Bodycam. The level references the game's own assets by path; none of them are included.
+- Epic Games - Unreal Engine 5.5. Tools written with AI assistance (Claude, by Anthropic).
+
+Fan-made, not made, supported or endorsed by Reissad Studio.
