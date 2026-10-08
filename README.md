@@ -15,7 +15,7 @@ study, change and rebuild into your own map. Only the files the level uses are h
 - The Bodycam Map Kit (an Unreal project with stand-ins for the game's own materials, the hardpoint zone and the
   build script). This level places the game's own assets by their game paths; they are NOT in this download, the
   Map Kit has stand-ins for them and the game supplies the real ones when you play.
-  The Map Kit download is being cleaned for public release and will be linked here.
+  **Download it here: https://github.com/Lovac/bodycam-map-kit** (it already contains this level too).
 
 ## How to open it
 
